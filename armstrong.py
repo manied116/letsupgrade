@@ -16,4 +16,4 @@ for num in range (lower, upper + 1):
         print(num)
 
 #output
-# The First Armstrong Number is 1741725
+# The First Armstrong Number is 1741725 ///6666666666666666666
